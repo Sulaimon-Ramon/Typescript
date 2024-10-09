@@ -37,3 +37,5 @@ class student {
 let student1 = new student(`Sulaimon.Ramon`);
 console.log(student1.greet());
 
+const Greeting:string = "Hello World!";
+console.log(Greeting.toUpperCase())
